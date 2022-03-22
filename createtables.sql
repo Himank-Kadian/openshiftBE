@@ -1,0 +1,1 @@
+CREATE TABLE list ( itenName varchar(50), qty int(5));
